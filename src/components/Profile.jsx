@@ -8,7 +8,7 @@
 // import AppliedJobTable from './AppliedJobTable'
 // import UpdateProfileDialog from './UpdateProfileDialog'
 // import { useSelector } from 'react-redux'
-// import useGetAppliedJobs from '@/hooks/useGetAppliedJobs'
+// import useGetAppliedJobs from '@/Hooks/useGetAppliedJobs'
 
 // // const skills = ["Html", "Css", "Javascript", "Reactjs"]
 // const isResume = true;
@@ -81,7 +81,7 @@ import { Label } from './ui/label'
 import AppliedJobTable from './AppliedJobTable'
 import UpdateProfileDialog from './UpdateProfileDialog'
 import { useSelector } from 'react-redux'
-import useGetAppliedJobs from '@/hooks/useGetAppliedJobs'
+import useGetAppliedJobs from '@/Hooks/useGetAppliedJobs'
 
 // const skills = ["Html", "Css", "Javascript", "Reactjs"]
 const isResume = true;
